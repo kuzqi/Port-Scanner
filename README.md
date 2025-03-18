@@ -2,7 +2,7 @@
 Simple Port scanner tool for educational purposes.
 
 # Dependencies
-- Windows
+- Windows 10 and higher
 - Nmap (Download: https://nmap.org/download)
 
 # IMPORTANT
