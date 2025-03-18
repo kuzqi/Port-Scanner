@@ -5,8 +5,8 @@ The tool doesn't contains any rights or obfuscation.
 --------------------------------------------------------
 
 
-# Port-Scanner | Port Scanner
-Simple Port scanner tool for educational purposes.
+# Minecraft Port Scanner Tool
+Simple ports and domains scanner tool for minecraft servers.
 
 # Features
 - Port scanner
