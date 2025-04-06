@@ -14,7 +14,6 @@ Simple ports and domains scanner tool for minecraft servers.
 - Domain lookup
   
 # Dependencies
-- Windows 10 and higher
 - Nmap (Download: https://nmap.org/download)
 
 # Images
